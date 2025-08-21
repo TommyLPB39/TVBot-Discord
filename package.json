@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "TommyLPB39",
-  "license": "ISC",
-  "description": ""
+  "license": "MIT",
+  "description": "Un bot Discord sur le thème de la télévision"
 }
